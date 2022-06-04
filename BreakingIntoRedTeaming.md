@@ -18,11 +18,15 @@ Additionally, a basic understanding of how businesses operate will also help you
 Key takeaway here: red teamers hack with a purpose and understanding how your work impacts a company is the driver of how you persuade change. 
 
 ## Early Career
-Red teams are hard to get into right out of college. That's probably because of the high risk of error and the prerequisite knowledge required to be successful. 
+Red teams and security roles in general are hard to get into right out of college. I think this is because of the base experience and knowledge that’s typically required to work proficiently and not break things. Security work often includes access to highly confidential data, so there’s higher risk when inexperienced interns and college grads start accessing systems and handling restricted data. In red teaming specifically, there’s a lot that can go wrong when emulating adversaries and hacking on major production targets, so more experience and trust is needed.
 
-## Red Team Value
-**How is value derived from a red team? Why are they paying me to hack?**\
-A red team's impact is specifically measured based on inspired initiatives that result from red teaming activities.
+To break through the barriers I mentioned above, get as much experience and knowledge as possible in security-focused electives and projects/capstone. This will not only help you determine where you want your career to go but will also give you opportunities to try out security to see if it’s right for you.
 
-# WORK IN PROGRESS
+Additionally, getting a few security certificates is also a good way to show that you’re serious about fine tuning your skills outside of normal schooling and work. It shows that you’re passionate about going above and beyond the average person. Remember, you’ll be competing for roles when you apply for programs and jobs. Perhaps start off with CompTIA Security+, or GIAC GSEC, then move up to CEH for example. OSCP would be a strong certificate for aspiring red teamers but it’s a bit more advanced for fresh students. It probably requires a few years of dedicated security study and experience before it would be worth attempting. 
 
+Capture the Flag events like the SANS Kringle Cons or pentesting challenges like HackTheBox are another good way to practice your skills in a fun community. There are hints, support, and leaderboards to help keep you inspired and growing. It’s also an opportunity to network with other security professionals who may be looking for new hires. If you do these, try to document your progress write write-ups, even if they’re so-so quality (see next section).
+
+The last thing I’ll mention is to have a public portfolio of work. Anything IT-related is okay (web dev, books you’ve read, IT service/presentations, projects), but security work is best. Perhaps start a GitHub repo of several simple bash scripts of common commands you run in CTFs, or a repo of HackTheBox walkthroughs, or make a few blog posts based on security research you’ve conducted (how to use C2, problems with Basic Auth, how buffer overflows work). What interests you and what will show off your passion and skills?
+
+## Getting into Red Teaming
+TODO
