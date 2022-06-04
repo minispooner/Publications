@@ -29,4 +29,16 @@ Capture the Flag events like the SANS Kringle Cons or pentesting challenges like
 The last thing I’ll mention is to have a public portfolio of work. Anything IT-related is okay (web dev, books you’ve read, IT service/presentations, projects), but security work is best. Perhaps start a GitHub repo of several simple bash scripts of common commands you run in CTFs, or a repo of HackTheBox walkthroughs, or make a few blog posts based on security research you’ve conducted (how to use C2, problems with Basic Auth, how buffer overflows work). What interests you and what will show off your passion and skills?
 
 ## Getting into Red Teaming
-TODO
+Understanding the difference between pentesting and red teaming is crucial at this point - you could very well be asked in an interview. There are lots of different opinions out there and lots of companies mix these two roles, but they're definitely not the same. Here are some of the main differences in my opinion:
+
+**Penetration Testing**\
+Penetration testers often focus on a particular app (domain, sourcecode, web app, api, etc). Their objective is typically to find as many bugs as possible and write up a report of findings. They often have a focus, like authentication/authorization checks. Pentests are typically compliance-driven, so scope is often restricted to ensure a cheap stamp of compliance approval is obtained.
+
+**Red Teaming**\
+Red teams emulate real-world adversaries to provide an independent, unbiased measurement of the security posture of a target from an adversarial perspective. The results will either confirm an organization's assumptions about their securitry, or they will inspire change. For example, BigCorp wants to know how safe they are against ransomware so they can appropriately allocate security funding, so they hire RedTeamsRUs to assess their current susceptibility. RedTeamsRUs then gets to be creative and essentially break into to anything within the established Rules of Engagement (no DDoS, corp servers only, etc). Because of a large scope and realistic emulation of adversaries, red teamers must be very creative and think and act like criminals in order to be succesful. In order to better measure real-world threats, Red team actions usually emulate threat actor Tactics, Techniques, and Procedures (TTPs).
+
+### How to Prepare
+There are tons of penetration testing books and courses, but not that many red teaming ones. Pentesting is a good start to make sure you're technically ready, but the red team mindset is probably the biggest differentiator in a new hire prospect. Here are some must-reads to help you understand red teaming:
+1. Red Team Development and Operations, by Joe Vest & James Tubberville
+2. todo
+3. asdf
