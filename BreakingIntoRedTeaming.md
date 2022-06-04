@@ -24,7 +24,7 @@ To break through the barriers I mentioned above, get as much experience and know
 
 Additionally, getting a few security certificates is also a good way to show that you’re serious about fine tuning your skills outside of normal schooling and work. It shows that you’re passionate about going above and beyond the average person. Remember, you’ll be competing for roles when you apply for programs and jobs. Perhaps start off with CompTIA Security+, or GIAC GSEC, then move up to CEH for example. OSCP would be a strong certificate for aspiring red teamers but it’s a bit more advanced for fresh students. It probably requires a few years of dedicated security study and experience before it would be worth attempting. 
 
-Capture the Flag events like the SANS Kringle Cons or pentesting challenges like HackTheBox are another good way to practice your skills in a fun community. There are hints, support, and leaderboards to help keep you inspired and growing. It’s also an opportunity to network with other security professionals who may be looking for new hires. If you do these, try to document your progress write write-ups, even if they’re so-so quality (see next section).
+Capture the Flag events like the [SANS Kringle Cons](https://www.sans.org/mlp/holiday-hack-challenge/) or pentesting challenges like [HackTheBox](https://www.hackthebox.com) are another good way to practice your skills in a fun community. There are hints, support, and leaderboards to help keep you inspired and growing. It’s also an opportunity to network with other security professionals who may be looking for new hires. If you do these, try to document your progress write write-ups, even if they’re so-so quality (see next section).
 
 The last thing I’ll mention is to have a public portfolio of work. Anything IT-related is okay (web dev, books you’ve read, IT service/presentations, projects), but security work is best. Perhaps start a GitHub repo of several simple bash scripts of common commands you run in CTFs, or a repo of HackTheBox walkthroughs, or make a few blog posts based on security research you’ve conducted (how to use C2, problems with Basic Auth, how buffer overflows work). What interests you and what will show off your passion and skills?
 
@@ -39,6 +39,6 @@ Red teams emulate real-world adversaries to provide an independent, unbiased mea
 
 ### How to Prepare
 There are tons of penetration testing books and courses, but not that many red teaming ones. Pentesting is a good start to make sure you're technically ready, but the red team mindset is a differentiating factor in a new hire prospect. Here are some must-reads to help you understand red teaming:
-1. Red Team Development and Operations, by Joe Vest & James Tubberville
-2. Red Team: How to Succeed By Thinking Like the Enemy, by Micah Zenko
+1. [Red Team Development and Operations](https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633#), by Joe Vest & James Tubberville
+2. [Red Team: How to Succeed By Thinking Like the Enemy](https://www.amazon.com/Red-Team-Succeed-Thinking-Enemy/dp/0465048943/), by Micah Zenko
 
