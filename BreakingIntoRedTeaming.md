@@ -42,3 +42,8 @@ There are tons of penetration testing books and courses, but not that many red t
 1. [Red Team Development and Operations](https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633#), by Joe Vest & James Tubberville
 2. [Red Team: How to Succeed By Thinking Like the Enemy](https://www.amazon.com/Red-Team-Succeed-Thinking-Enemy/dp/0465048943/), by Micah Zenko
 
+## After you Make it
+Be humble, never stop learning, always have a mentor. Keep up to date on industry trends, keep technically sharp and business objective oriented.
+
+Yours truly,\
+minispooner
