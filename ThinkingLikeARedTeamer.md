@@ -15,3 +15,4 @@ How to think like a Red Teamer
 ## The Art of War, by Sun Tzu
 - do the unexpected. Attack on holidays, generate noise when not acting, come from inside. 
 - resources are expensive. Utilize the target's (infra, recon, vuln mgmt, dns records...)
+- seek battle only after you've won. We control success by controlling the battle. Know when and how to attack. Prepare, be intentional. Put yourself beyond the possibility of defeat. To ensure victory, win with ease. Win by making no mistakes. Making no mistakes established the certainty of victory. It means conquering an enemy that is already defeated. A skilled fighter puts himself into a position that makes defeat impossible and doesn't miss the moment for defeating the enemy.
