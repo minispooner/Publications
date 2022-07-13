@@ -18,3 +18,4 @@ How to think like a Red Teamer
 - seek battle only after you've won. We control success by controlling the battle. Know when and how to attack. Prepare, be intentional. Put yourself beyond the possibility of defeat. To ensure victory, win with ease. Win by making no mistakes. Making no mistakes established the certainty of victory. It means conquering an enemy that is already defeated. A skilled fighter puts himself into a position that makes defeat impossible and doesn't miss the moment for defeating the enemy.
 - red teamers are prompt in their decisions and the energy is like the bending of a crossbow and decision as the releasing of the trigger. 
 - you can ensure victory by only attacking places that are in defended (default creds, publicly accessible, data leakage)
+- "avoid what is strong and strike at what is weak"
