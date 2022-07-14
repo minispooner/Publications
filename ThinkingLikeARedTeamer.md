@@ -1,5 +1,5 @@
 # Thinking Like A Red Teamer
-How to think like a Red Teamer
+Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must become fully submersed.
 
 ## Red Team: How to Succeed By Thinking Like the Enemy _by Micah Zenko_
 **February 2022**
