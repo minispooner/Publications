@@ -13,7 +13,8 @@ How to think like a Red Teamer
 - know when to stop. Like when you reach your objective, or proved sufficient impact to inspire change, or reach the emulated adversary's skill peak - unless they're an initial access broker ;)
 
 ## The Art of War, by Sun Tzu
-- do the unexpected. Attack on holidays, generate noise when not acting, come from inside. 
+- do the unexpected. Attack on holidays, generate noise when not acting, come from inside.
+- attack when defense is distracted (day after an 0day, company wide meetings, drunken holidays)
 - resources are expensive. Utilize the target's (infra, recon, vuln mgmt, dns records...)
 - seek battle only after you've won. We control success by controlling the battle. Know when and how to attack. Prepare, be intentional. Put yourself beyond the possibility of defeat. To ensure victory, win with ease. Win by making no mistakes. Making no mistakes established the certainty of victory. It means conquering an enemy that is already defeated. A skilled fighter puts himself into a position that makes defeat impossible and doesn't miss the moment for defeating the enemy.
 - red teamers are prompt in their decisions and the energy is like the bending of a crossbow and decision as the releasing of the trigger. 
