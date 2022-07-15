@@ -34,7 +34,7 @@ Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must becom
 **February 2022**
 - I never wrote notes for this book. It's basically about the history of red teaming (catholic church) and a few different industries that use red teaming (military, gov, businesses, cyber). It's pretty good but it goes a lot into gov and army.
 
-## The Art of Deception and Ghost in the Wires (2 different books) _by Kevin Mitnick_
+## The Art of Deception, The Art of Invisibility, Ghost in the Wires (3 different books) _by Kevin Mitnick_
 **August 2021**
-- I never wrote notes for these books. I don't remember the differences between these two books but Ghost in the Wires talks about Kevin's life of phone Phreaking in the early hacker days and his dodging FBI and stealing identities. One of the books talks about the various ways to use TOR to remain anonymous and a few things like that. 
+- I never wrote notes for these books. I don't remember the differences between these books but I read two of them i think. Ghost in the Wires talks about Kevin's life of phone Phreaking in the early hacker days and his dodging FBI and stealing identities. One of the books talks about the various ways to use TOR to remain anonymous and a few things like that - I think it was Art of Invisibility. 
 - If I recall correctly, these books weren't really technical enough - they were more for interested non-IT folk or concerned citizens or interested journalists. They were somewhat entertaining but I think I stopped one half way through cause I wasn't learning anything.
