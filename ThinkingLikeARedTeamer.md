@@ -1,8 +1,10 @@
 # Thinking Like A Red Teamer
 Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must become fully submersed.
 
-## TBD
+## Cult of the Dead Cow
 **July 2022**
+- goes over activist history and involvement in world governments and culture. Their motivations, their leadership. 
+- 
 
 ## The Art of War _by Sun Tzu_
 **July 2022**
