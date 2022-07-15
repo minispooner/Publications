@@ -1,7 +1,7 @@
 # Thinking Like A Red Teamer
 Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must become fully submersed.
 
-## Cult of the Dead Cow
+## Cult of the Dead Cow _by Joseph Menn_
 **July 2022**
 - goes over activist history and involvement in world governments and culture. Their motivations, their leadership. 
 - 
