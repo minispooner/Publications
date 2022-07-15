@@ -1,13 +1,18 @@
 # Thinking Like A Red Teamer
 Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must become fully submersed.
 
-## Red Team: How to Succeed By Thinking Like the Enemy _by Micah Zenko_
-**February 2022**
-- I never wrote notes for this book but it's basically about the history of red teaming (catholic church) and a few different industries that use red teaming (military, gov, businesses, cyber). It's pretty good but it goes a lot into gov and army.
+## TBD
+**July 2022**
 
-## Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground _by Kevin Poulsen_
-**May 2022**
-- Again, I never wrote notes for this book, but it's an entertaining book about a guy's life story of how he got into mischief and stealing and how it led into a life of hacking. It's a good primer on how the underground marketplace works, which is why I chose it. He eventually starts running major underground businesses with credit card theft/sales. His hacking work and avoiding arrest and his relationships - a mixture of various aspects of his life and his story. Provides a good perspective on the past criminal underground, though I'm not sure how closely it resembles the current underground marketplace.
+## The Art of War _by Sun Tzu_
+**July 2022**
+- do the unexpected. Attack on holidays, generate noise when not acting, come from inside.
+- attack when defense is distracted (day after an 0day, company wide meetings, drunken holidays)
+- resources are expensive. Utilize the target's (infra, recon, vuln mgmt, dns records...)
+- seek battle only after you've won. We control success by controlling the battle. Know when and how to attack. Prepare, be intentional. Put yourself beyond the possibility of defeat. To ensure victory, win with ease. Win by making no mistakes. Making no mistakes established the certainty of victory. It means conquering an enemy that is already defeated. A skilled fighter puts himself into a position that makes defeat impossible and doesn't miss the moment for defeating the enemy.
+- red teamers are prompt in their decisions and the energy is like the bending of a crossbow and decision as the releasing of the trigger. 
+- you can ensure victory by only attacking places that are in defended (default creds, publicly accessible, data leakage)
+- "avoid what is strong and strike at what is weak"
 
 ## Red Teaming _by Bryce Hoffman_
 **June 2022**
@@ -21,15 +26,15 @@ Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must becom
 - find gaps in existing analysis, uncover import information that was overlooked or missed
 - know when to stop. Like when you reach your objective, or proved sufficient impact to inspire change, or reach the emulated adversary's skill peak - unless they're an initial access broker ;)
 
-## The Art of War _by Sun Tzu_
-**July 2022**
-- do the unexpected. Attack on holidays, generate noise when not acting, come from inside.
-- attack when defense is distracted (day after an 0day, company wide meetings, drunken holidays)
-- resources are expensive. Utilize the target's (infra, recon, vuln mgmt, dns records...)
-- seek battle only after you've won. We control success by controlling the battle. Know when and how to attack. Prepare, be intentional. Put yourself beyond the possibility of defeat. To ensure victory, win with ease. Win by making no mistakes. Making no mistakes established the certainty of victory. It means conquering an enemy that is already defeated. A skilled fighter puts himself into a position that makes defeat impossible and doesn't miss the moment for defeating the enemy.
-- red teamers are prompt in their decisions and the energy is like the bending of a crossbow and decision as the releasing of the trigger. 
-- you can ensure victory by only attacking places that are in defended (default creds, publicly accessible, data leakage)
-- "avoid what is strong and strike at what is weak"
+## Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground _by Kevin Poulsen_
+**May 2022**
+- I never wrote notes for this book. It's an entertaining book about a guy's life story of how he got into mischief and stealing and how it led into a life of hacking. It's a good primer on how the underground marketplace works, which is why I chose it. He eventually starts running major underground businesses with credit card theft/sales. His hacking work and avoiding arrest and his relationships - a mixture of various aspects of his life and his story. Provides a good perspective on the past criminal underground, though I'm not sure how closely it resembles the current underground marketplace.
 
-## TBD
-**July 2022**
+## Red Team: How to Succeed By Thinking Like the Enemy _by Micah Zenko_
+**February 2022**
+- I never wrote notes for this book. It's basically about the history of red teaming (catholic church) and a few different industries that use red teaming (military, gov, businesses, cyber). It's pretty good but it goes a lot into gov and army.
+
+## The Art of Deception and Ghost in the Wires (2 different books) _by Kevin Mitnick_
+**August 2021**
+- I never wrote notes for these books. I don't remember the differences between these two books but Ghost in the Wires talks about Kevin's life of phone Phreaking in the early hacker days and his dodging FBI and stealing identities. One of the books talks about the various ways to use TOR to remain anonymous and a few things like that. 
+- If I recall correctly, these books weren't really technical enough - they were more for interested non-IT folk or concerned citizens or interested journalists. They were somewhat entertaining but I think I stopped one half way through cause I wasn't learning anything.
