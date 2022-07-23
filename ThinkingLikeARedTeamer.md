@@ -5,6 +5,7 @@ Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must becom
 **July 2022**
 - goes over activist history and involvement in world governments and culture. Their motivations, their leadership. 
 - Politically left book on hacker activist group history and motivations - not very many TTPs or valuable learning. 
+- repeating TTPs across targets can identify you
 
 ## The Art of War _by Sun Tzu_
 **July 2022**
