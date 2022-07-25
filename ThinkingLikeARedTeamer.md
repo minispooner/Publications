@@ -3,9 +3,12 @@ Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must becom
 
 ## Cult of the Dead Cow _by Joseph Menn_
 **July 2022**
-- goes over activist history and involvement in world governments and culture. Their motivations, their leadership. 
+- goes over activist history and involvement in world governments and culture. Their motivations, their leadership, their ethical and theological mindsets and reasonings. 
 - Politically left book on hacker activist group history and motivations - not very many TTPs or valuable learning. 
 - repeating TTPs across targets can identify you
+- latter portion of book ties in original CDC members' histories to current lives, like Mudge being head of security at Twitter and another having issues with sexual molestation. 
+- the ending ties in liberal politician Beto O'Rourke's brief, early background in the Cult of the Dead Cow (CDC) and sounds like a liberal pitch as it praises his liberal views and efforts while it bashes republicans, but I do think the author is trying to be politically neutral. I think they're just trying to outline his background and a brief history of a prominent politician's connection to the CDC, while focusing on the benefits that hacktivist groups can have on society. 
+- overall, not many good TTPs but is a good book on hacktivist history and motivations and theories and ethics and involvement in world affairs
 
 ## The Art of War _by Sun Tzu_
 **July 2022**
