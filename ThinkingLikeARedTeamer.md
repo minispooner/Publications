@@ -1,6 +1,11 @@
 # Thinking Like A Red Teamer
 Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must become fully submersed.
 
+## Cyber Hacking _by Scientific American_
+- book is separated into articals on various hacking topics
+- [1] hardware hacking: touches on seriousness (but difficulties) of hardware attacks. Mentions difficulties of securing supply chain stacks given so many uncontrolled touch points in production/asssembly. Goes over hardware block corruption and protections. 
+- [2] stuxnet review: usb worm given to worker, payload searched internally for months before targeting physical components to speed up rotaries (yet report healthy functions) until they were destroyed. 
+
 ## Cult of the Dead Cow _by Joseph Menn_
 **July 2022**
 - goes over activist history and involvement in world governments and culture. Their motivations, their leadership, their ethical and theological mindsets and reasonings. 
