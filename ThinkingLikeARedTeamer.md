@@ -4,7 +4,8 @@ Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must becom
 ## Cyber Hacking _by Scientific American_
 - book is separated into articals on various hacking topics
 - [1] hardware hacking: touches on seriousness (but difficulties) of hardware attacks. Mentions difficulties of securing supply chain stacks given so many uncontrolled touch points in production/asssembly. Goes over hardware block corruption and protections. 
-- [2] stuxnet review: usb worm given to worker, payload searched internally for months before targeting physical components to speed up rotaries (yet report healthy functions) until they were destroyed. 
+- [2] stuxnet review: usb worm given to worker, payload searched internally for months before targeting physical components to speed up rotaries (yet report healthy functions) until they were destroyed. Talks about difficulties in patching SCADA systems. 
+- [3] code red worm: DDoS worm targeting vulnerable IIS servers
 
 ## Cult of the Dead Cow _by Joseph Menn_
 **July 2022**
