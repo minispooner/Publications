@@ -7,7 +7,7 @@ Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must becom
 - [2] stuxnet review: usb worm given to worker, payload searched internally for months before targeting physical components to speed up rotaries (yet report healthy functions) until they were destroyed. Talks about difficulties in patching SCADA systems. 
 - [3] code red worm: DDoS worm targeting vulnerable IIS servers
 - [4] hacker wars: an argument on a hacker forum turns into a trolling/vengefull operation between the two participants. Detailed story on attacks and defense going back and forth several times. One TTP takeaway is to not get too excited when we win or get fame. Stay low and slow and don't be messy. 
-
+- [others] generic infosec: a couple articles on encryption and phishing. Not very many TTPs. Use long term historical domains when phishing. 
 ## Cult of the Dead Cow _by Joseph Menn_
 **July 2022**
 - goes over activist history and involvement in world governments and culture. Their motivations, their leadership, their ethical and theological mindsets and reasonings. 
