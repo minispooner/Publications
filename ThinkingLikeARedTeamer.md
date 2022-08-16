@@ -1,13 +1,23 @@
 # Thinking Like A Red Teamer
 Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must become fully submersed.
 
+## The Art of Attack: Attacker Mindset for Security Professionals
+**August 2022**
+- thinking like an attacker. How to think through attack scenarios and use all tools at your disposal and stretch scope
+
+## Atomic Habits
+**August 2022**
+- great book in how to start and stop habits. Can be useful for eliminating time wasters at work or for starting new habits like keeping up to date on hacker news and new TTPs or technical skills. 
+
 ## Cyber Hacking _by Scientific American_
+**July 2022**
 - book is separated into articals on various hacking topics
 - [1] hardware hacking: touches on seriousness (but difficulties) of hardware attacks. Mentions difficulties of securing supply chain stacks given so many uncontrolled touch points in production/asssembly. Goes over hardware block corruption and protections. 
 - [2] stuxnet review: usb worm given to worker, payload searched internally for months before targeting physical components to speed up rotaries (yet report healthy functions) until they were destroyed. Talks about difficulties in patching SCADA systems. 
 - [3] code red worm: DDoS worm targeting vulnerable IIS servers
 - [4] hacker wars: an argument on a hacker forum turns into a trolling/vengefull operation between the two participants. Detailed story on attacks and defense going back and forth several times. One TTP takeaway is to not get too excited when we win or get fame. Stay low and slow and don't be messy. 
 - [others] generic infosec: a couple articles on encryption and phishing. Not very many TTPs. Use long term historical domains when phishing. 
+
 ## Cult of the Dead Cow _by Joseph Menn_
 **July 2022**
 - goes over activist history and involvement in world governments and culture. Their motivations, their leadership, their ethical and theological mindsets and reasonings. 
