@@ -4,6 +4,7 @@ Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must becom
 ## The Art of Attack: Attacker Mindset for Security Professionals
 **August 2022**
 - thinking like an attacker. How to think through attack scenarios and use all tools at your disposal and stretch scope
+- great sections on ethics and social engineering
 
 ## Atomic Habits
 **August 2022**
