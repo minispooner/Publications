@@ -1,12 +1,12 @@
 # Thinking Like A Red Teamer
 Studies on Red Teaming concepts. To truly succeed in Red Teaming, one must become fully submersed.
 
-## The Art of Attack: Attacker Mindset for Security Professionals
+## The Art of Attack: Attacker Mindset for Security Professionals _by Maxie Reynolds_
 **August 2022**
 - thinking like an attacker. How to think through attack scenarios and use all tools at your disposal and stretch scope
 - great sections on ethics and social engineering
 
-## Atomic Habits
+## Atomic Habits _by James Clear_
 **August 2022**
 - great book in how to start and stop habits. Can be useful for eliminating time wasters at work or for starting new habits like keeping up to date on hacker news and new TTPs or technical skills. 
 
