@@ -1,4 +1,5 @@
 # Red Team Interviews
+_**Disclaimer**: These are my personal opinions and I do not identify organizations or interviewers. I respect and appreciate interviewers who are generally trying their best, and these critiques are not personal or retaliative. These notes and meant to help mentor others who may be seeking job opportunities in Red Teaming._
 
 ## Red Team Role circa Nov 2021
 ### Key Takeaways
