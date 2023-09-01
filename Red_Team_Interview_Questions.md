@@ -13,6 +13,9 @@ This is a list of interview questions that I've gotten as I interview at major t
 - How do you determine your objectives?
 - What steps do you take after a getting a shell?
 - How do you priv esc in Linux? In Windows?
+- Where and how are Windows local user passwords stored? Tell me more about LSASS.
+- If you're on the same subnet as a target Windows machine, how can you attack them?
+- If you have a shell as an user in the Windows Administrators group, how can you obtain a System-level shell?
 - Tell me about your experience with C2.
 - How do you build evasion into your C2?
 - If you were to break into <COMPANY> and steal their crown jewels, how would you do it?
