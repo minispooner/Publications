@@ -19,3 +19,8 @@ This is a list of interview questions that I've gotten as I interview at major t
 - Tell me about your experience with C2.
 - How do you build evasion into your C2?
 - If you were to break into <COMPANY> and steal their crown jewels, how would you do it?
+
+## Questions I Could Ask If I Were the Interviewer
+- You got RCE on a web app. How would you persist? How would you evade detection? How would you exfiltrate data? How would you move laterally?
+- You have a shell on an employee laptop when they opened your malicious email attachment. How would you persist? How would you evade detection? How would you exfiltrate data? How would you move laterally?
+- 
