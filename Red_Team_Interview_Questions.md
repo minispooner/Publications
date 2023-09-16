@@ -22,7 +22,7 @@ This is a list of interview questions that I've gotten as I interview at major t
 
 ## Situational / Behavioral / Leadership
 - Tell me about a time when you didn't meet a deadline. How did you salvage the project?
-...
+- 
 
 ## Questions I Could Ask If I Were the Interviewer
 - You got RCE on a web app. How would you persist? How would you evade detection? How would you exfiltrate data? How would you move laterally?
