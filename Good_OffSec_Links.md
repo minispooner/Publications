@@ -3,7 +3,8 @@
 ## Red Team Resources
 - https://www.ired.team
 - https://book.hacktricks.xyz
-- https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
+- C2: https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
+- C2: https://0xrick.github.io/misc/c2/#basic-info
 - see my other markdown page for books and thinking like a Red Teamer
 
 ## Career Growth
